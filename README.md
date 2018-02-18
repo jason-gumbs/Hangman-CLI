@@ -2,7 +2,7 @@
 
 this is a coomand line hangman using node.js
 
-##Gettind Started
+## Gettind Started
 
 ```npm install```
 to install all all dependencies 
@@ -12,4 +12,4 @@ to install all all dependencies
 to start playing hangman game
 
 
-#Have fun
+# Have fun
