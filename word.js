@@ -1,5 +1,5 @@
 var Word = function() {
-  this.word = ["hey", "joe","great"];
+  this.word = ["Lebron", "Micheal","kobe"];
   this.blanks = [];
   this.chosenWord = "";
   this.res="";
